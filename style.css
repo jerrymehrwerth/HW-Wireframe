@@ -7,6 +7,7 @@
 * {
     box-sizing: border-box;
     text-align: center;
+    font-size: 18px;
   }
 
 
@@ -23,6 +24,7 @@ body {
     }
 
     #nav {
+        font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
         background-color: #ebebeb;
         height: 60px;
         margin-left: 200px;
@@ -32,6 +34,7 @@ body {
         }
 
            #section {
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             background-color: #ebebeb;
             height: 300px;
             margin-left: 200px;
@@ -41,17 +44,17 @@ body {
            }
 
            #aside {
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             background-color: #ebebeb;
             height: 300px;
             padding: 20px;
-            width: 465px;
+            width: 455px;
             float:right;
             margin-top:20px;
             margin-right:350px;
-        }
-
-           
+                   }          
            #article {
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             background-color:#777;
             height: 220px;
             margin-left:1px;
@@ -61,6 +64,7 @@ body {
            }
 
            #h1h2h3 {
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             background-color:#ebebeb;
             height: 60px;
             margin-left:10px;
@@ -70,6 +74,7 @@ body {
            }
 
            #p {
+            font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
             background-color:#ebebeb;
             height: 60px;
             margin-left:10px;
@@ -81,7 +86,7 @@ body {
                   
 #footer {
     background-color: #ebebeb;
-    height: 60px;
+    height: 70px;
     margin-top:20px;
     margin-left: 200px;
     padding: 10px;

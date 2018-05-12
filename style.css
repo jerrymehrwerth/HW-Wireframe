@@ -1,0 +1,89 @@
+/**
+ * assignment one....
+ **/
+
+
+
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+
+body {
+    background-color:#777   
+}
+
+#header {
+    background-color: #ebebeb;
+    height: 60px;
+    margin-left: 200px;
+    padding: 10px;
+    width: 960px;
+    }
+
+    #nav {
+        background-color: #ebebeb;
+        height: 60px;
+        margin-left: 200px;
+        margin-top: 20px;
+        padding: 10px;
+        width: 960px;
+        }
+
+           #section {
+            background-color: #ebebeb;
+            height: 300px;
+            margin-left: 200px;
+            margin-top: 20px;
+            padding: 10px;
+            width: 495px;
+           }
+
+           #aside {
+            background-color: #ebebeb;
+            height: 300px;
+            padding: 20px;
+            width: 465px;
+            float:right;
+            margin-top:20px;
+            margin-right:350px;
+        }
+
+           
+           #article {
+            background-color:#777;
+            height: 220px;
+            margin-left:1px;
+            margin-top: 1px;
+            padding: 5px;
+            width: 460px;
+           }
+
+           #h1h2h3 {
+            background-color:#ebebeb;
+            height: 60px;
+            margin-left:10px;
+            margin-top: 30px;
+            padding: 5px;
+            width: 430px;
+           }
+
+           #p {
+            background-color:#ebebeb;
+            height: 60px;
+            margin-left:10px;
+            margin-top: 10px;
+            padding:  5px;
+            width: 430px;  
+            }
+
+                  
+#footer {
+    background-color: #ebebeb;
+    height: 60px;
+    margin-top:20px;
+    margin-left: 200px;
+    padding: 10px;
+    width: 960px;
+    }
